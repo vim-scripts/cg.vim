@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=581
+
+Syntax and keyword highlighting for the Cg shader-programming language, used in game programming and plugins for 3dsMax, Maya, etc.
+
+This file is appropriate for .cg and .fx files.
+
+Details, see http://www.cgshaders.org/ or http://developer.nvidia.com/
+
+Can also be used for Microsoft HLSL files.
+
+Kevin Bjorke
+mailto:kbjorke@nvidia.com
